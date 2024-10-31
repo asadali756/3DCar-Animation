@@ -12,7 +12,7 @@ A simple 3D car game built with HTML and CSS. This project demonstrates basic an
 ## Demo
 
 <div align="center">
-    <img src="https://github.com/asadali756/COURIER-SERVICES-MANAGEMENT/blob/master/courier%20projects.JPG" alt="Courier Management System" style="border: 2px solid #000;"/>
+    <img src="https://github.com/asadali756/3DCar-Animation/blob/master/SimpleCar3D.JPG" alt="Courier Management System" style="border: 2px solid #000;"/>
 </div>
 
 ## Technologies Used
