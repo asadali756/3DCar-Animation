@@ -5,9 +5,7 @@ A simple 3D car game built with HTML and CSS. This project demonstrates basic an
 ## Features
 
 - **3D Car Animation**: A visually appealing car that moves across the screen.
-- **User Controls**: Use arrow keys to steer the car left and right.
-- **Obstacles**: Avoid obstacles on the track to keep your score.
-- **Score Tracking**: Points are accumulated over time.
+
 
 ## Demo
 
